@@ -106,11 +106,9 @@ body {
 @media screen and (max-width: 650px) {
   .header-left {
     width: 300px;
-    padding: 1rem;
   }
   .header-right {
     width: 300px;
-    padding: 1rem;
   }
   .header {
     flex-direction: column;
@@ -128,7 +126,6 @@ body {
   .review {
     flex-direction: column;
     text-align: center;
-    padding: 1rem;
   }
   .review-2 {
     margin-left: 0;
@@ -141,7 +138,7 @@ body {
     flex-direction: column;
   }
   .sec {
-    width: 2900px;
+    width: 290px;
   }
 
 }
